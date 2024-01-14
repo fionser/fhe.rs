@@ -28,6 +28,7 @@ rand_chacha.workspace = true
 thiserror.workspace = true
 zeroize.workspace = true
 sha2.workspace = true
+concrete-ntt.workspace = true
 
 [build-dependencies]
 prost-build.workspace = true
